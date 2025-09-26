@@ -65,6 +65,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
   <img src="static/imgs/Ayush.jpg" alt="Banner" width="300"/>
   <img src="static/imgs/anshika.jpg" alt="Banner" width="300"/>
   <img src="static/imgs/devansh.jpg" alt="Banner" width="300"/>
-  <img src="static/img/anurag.jpg" alt="Banner" width="300" />
+  <img src="static/img/Anurag.jpg" alt="Banner" width="300" />
 </p>
+
 
